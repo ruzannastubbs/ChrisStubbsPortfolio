@@ -59,12 +59,11 @@ header {
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
-      text-align: center;
+    text-align: center;
     position: relative;   
 }
 #piano-logo, #logo-name {
-    z-index: -1;
-  
+    z-index: -1; 
 }
 #piano-logo, #burgerMenu-icon, #close-icon {
     font-size: 1.5em;
@@ -107,6 +106,7 @@ h1 {
 h2 {
   font-size: 2.5em!important;
 }
+
 /* Welcome and details section */
 #welcome-wrapper {
     width: 75%;
